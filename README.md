@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Welcome to My Portfolio 👋
 
 I'm a cybersecurity professional and systems programmer with 17+ years of experience, including military service as an Army Radio/COMSEC technician. I specialize in endpoint security solutions, automation, and secure systems development.
 
