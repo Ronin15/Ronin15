@@ -7,8 +7,8 @@ I'm a cybersecurity professional and systems programmer with 17+ years of experi
 **Security Engineering**: Lead InfoSec Engineer with expertise in enterprise endpoint security (Symantec, CrowdStrike, Microsoft Defender, SentinelOne), REST API integrations, and PowerShell automation across 300K+ endpoints.
 
 **Programming & Systems**:
-* 💻 Systems programming in **Rust, C/C++, Go**
-* 📜 Scripting in **PowerShell, Python**
+* 💻 Systems programming in **C/C++, Rust, Go**
+* 📜 Scripting **PowerShell, Python**
 * 🛡️ 13+ years endpoint security solutions & automation
 * 🎮 Game development and interactive systems
 * ☁️ Azure, Splunk, and enterprise security tooling
